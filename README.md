@@ -128,7 +128,4 @@ BIOL7200-Programming_for_Bioinformatics/
 
 ---
 
-## Contact
 
-Celine Alnoubani
-Georgia Institute of Technology
